@@ -37,5 +37,5 @@ Building things in Go, Python, and whatever fits the problem.
 <p align="center">
 <a href="https://oliinyk.dev"><img src="https://img.shields.io/badge/-oliinyk.dev-4E342E?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/oliynykmax"><img src="https://img.shields.io/badge/-Max%20Oliinyk-4E342E?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:contact@oliinyk.dev"><img src="https://img.shields.io/badge/-contact@oliinyk.dev-4E342E?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:hi@oliinyk.dev"><img src="https://img.shields.io/badge/-hi@oliinyk.dev-4E342E?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
