@@ -25,6 +25,6 @@ Building things in Go, Python, and whatever fits the problem.
 
 ### Activity
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=oliynykmax&show_icons=true&theme=dark&hide_border=true&bg_color=1a1a1a&title_color=ffffff&icon_color=888888&text_color=cccccc&hide_rank=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=oliynykmax&show_icons=true&theme=dark&hide_border=true&bg_color=1a1a1a&title_color=ffffff&icon_color=888888&text_color=cccccc&hide_rank=true&hide_title=true)
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=oliynykmax&layout=compact&theme=dark&hide_border=true&bg_color=1a1a1a&title_color=ffffff&text_color=cccccc)
