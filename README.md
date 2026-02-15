@@ -1,3 +1,7 @@
+<img src="profile.png" alt="Header" width="100%" />
+
+## Hi, I am Max!
+
 Currently studying C/C++ at Hive Helsinki and Computational Science at LUT.  
 Building things in Go, Python, and whatever fits the problem.
 
@@ -25,6 +29,7 @@ Building things in Go, Python, and whatever fits the problem.
 
 ### Activity
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=oliynykmax&show_icons=true&theme=dark&hide_border=true&bg_color=1a1a1a&title_color=ffffff&icon_color=888888&text_color=cccccc&hide_rank=true&hide_title=true)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=oliynykmax&layout=compact&theme=dark&hide_border=true&bg_color=1a1a1a&title_color=ffffff&text_color=cccccc)
+<p align="center">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=oliynykmax&show_icons=true&theme=dark&hide_border=true&bg_color=1a1410&title_color=d4c5a9&icon_color=a67c52&text_color=c9b896&hide_rank=true&hide_title=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=oliynykmax&layout=compact&theme=dark&hide_border=true&bg_color=1a1410&title_color=d4c5a9&text_color=c9b896" alt="Top Languages" />
+</p>
