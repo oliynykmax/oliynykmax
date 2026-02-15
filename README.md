@@ -4,10 +4,8 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🎓 &nbsp;Currently studying C/C++ at Hive Helsinki and Computational Science at LUT.\
-💡 &nbsp;Building things in Go, Python, and whatever fits the problem.\
-🌱 &nbsp;Learning systems programming, DevOps, and cloud architecture.\
-✉️ &nbsp;Reach me at [oliinyk.dev](https://oliinyk.dev)
+Currently studying C/C++ at Hive Helsinki and Computational Science at LUT.  
+Building things in Go, Python, and whatever fits the problem.
 
 ### 🛠 &nbsp;Tech Stack
 
