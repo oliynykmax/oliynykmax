@@ -4,8 +4,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-Currently studying C/C++ at Hive Helsinki and Computational Science at LUT.  
-Building things in Go, Python, and whatever fits the problem.
+Alumni at Hive Helsinki | C/C++ and Web development  
+Studying Computational Science at LUT  
+Building things in Go, Python, and whatever fits the problem
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -20,7 +21,6 @@ Building things in Go, Python, and whatever fits the problem.
 ![Terraform](https://img.shields.io/badge/-Terraform-3E2723?style=flat&logo=terraform&logoColor=7B42BC)\
 ![AWS](https://img.shields.io/badge/-AWS-3E2723?style=flat&logo=amazon-aws&logoColor=FF9900)&nbsp;
 ![Bash](https://img.shields.io/badge/-Bash-3E2723?style=flat&logo=gnu-bash&logoColor=4EAA25)&nbsp;
-![Lua](https://img.shields.io/badge/-Lua-3E2723?style=flat&logo=lua&logoColor=2C2D72)&nbsp;
 ![Vim](https://img.shields.io/badge/-Vim-3E2723?style=flat&logo=vim&logoColor=019733)
 
 ### ⚙️ &nbsp;GitHub Analytics
@@ -36,6 +36,6 @@ Building things in Go, Python, and whatever fits the problem.
 
 <p align="center">
 <a href="https://oliinyk.dev"><img src="https://img.shields.io/badge/-oliinyk.dev-4E342E?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/oliynykmax"><img src="https://img.shields.io/badge/-Max%20Oliinyk-4E342E?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/oliynykmax"><img src="https://img.shields.io/badge/-LinkedIn-4E342E?style=flat&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:hi@oliinyk.dev"><img src="https://img.shields.io/badge/-hi@oliinyk.dev-4E342E?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
