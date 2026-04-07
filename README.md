@@ -12,14 +12,19 @@ Building things in Go, Python, and whatever fits the problem
 
 ![C](https://img.shields.io/badge/-C-3E2723?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-3E2723?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Java](https://img.shields.io/badge/-Java-3E2723?style=flat&logo=java&logoColor=ED8B00)&nbsp;
 ![Rust](https://img.shields.io/badge/-Rust-3E2723?style=flat&logo=rust&logoColor=CE422B)&nbsp;
 ![Go](https://img.shields.io/badge/-Go-3E2723?style=flat&logo=go&logoColor=00ADD8)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-3E2723?style=flat&logo=python&logoColor=3776AB)\
+![NumPy](https://img.shields.io/badge/-NumPy-3E2723?style=flat&logo=numpy&logoColor=013243)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3E2723?style=flat&logo=typescript&logoColor=3178C6)&nbsp;
+![Bun](https://img.shields.io/badge/-Bun-3E2723?style=flat&logo=bun&logoColor=FCF074)&nbsp;
 ![MATLAB](https://img.shields.io/badge/-MATLAB-3E2723?style=flat&logo=mathworks&logoColor=0076A8)&nbsp;
+![R](https://img.shields.io/badge/-R-3E2723?style=flat&logo=r&logoColor=276DC3)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-3E2723?style=flat&logo=docker&logoColor=2496ED)&nbsp;
 ![Terraform](https://img.shields.io/badge/-Terraform-3E2723?style=flat&logo=terraform&logoColor=7B42BC)\
 ![AWS](https://img.shields.io/badge/-AWS-3E2723?style=flat&logo=amazon-aws&logoColor=FF9900)&nbsp;
+![Vercel](https://img.shields.io/badge/-Vercel-3E2723?style=flat&logo=vercel&logoColor=FFFFFF)&nbsp;
 ![Bash](https://img.shields.io/badge/-Bash-3E2723?style=flat&logo=gnu-bash&logoColor=4EAA25)&nbsp;
 ![Vim](https://img.shields.io/badge/-Vim-3E2723?style=flat&logo=vim&logoColor=019733)
 
