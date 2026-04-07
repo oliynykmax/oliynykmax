@@ -23,7 +23,7 @@ Building things in Go, Python, and whatever fits the problem
 ![R](https://img.shields.io/badge/-R-3E2723?style=flat&logo=r&logoColor=276DC3)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-3E2723?style=flat&logo=docker&logoColor=2496ED)&nbsp;
 ![Terraform](https://img.shields.io/badge/-Terraform-3E2723?style=flat&logo=terraform&logoColor=7B42BC)\
-![AWS](https://img.shields.io/badge/-AWS-3E2723?style=flat&logo=aws&logoColor=FF9900)&nbsp;
+[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](https://aws.amazon.com)&nbsp;
 ![Vercel](https://img.shields.io/badge/-Vercel-3E2723?style=flat&logo=vercel&logoColor=FFFFFF)&nbsp;
 ![Bash](https://img.shields.io/badge/-Bash-3E2723?style=flat&logo=gnu-bash&logoColor=4EAA25)&nbsp;
 ![Vim](https://img.shields.io/badge/-Vim-3E2723?style=flat&logo=vim&logoColor=019733)
