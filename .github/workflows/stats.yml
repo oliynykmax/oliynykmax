@@ -1,0 +1,47 @@
+name: Update stats cards
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: stats
+  cancel-in-progress: true
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # STATS_TOKEN is a PAT (read:user + repo) so private contributions are counted.
+      # Without it the action falls back to GITHUB_TOKEN, which only sees public data.
+      - name: Generate stats card
+        uses: readme-tools/github-readme-stats-action@v2.1.0
+        with:
+          card: stats
+          options: username=oliynykmax&show_icons=true&theme=dark&hide_border=true&bg_color=1a1410&title_color=d4c5a9&icon_color=a67c52&text_color=c9b896&hide_rank=true&include_all_commits=true&count_private=true
+          path: assets/stats.svg
+          token: ${{ secrets.STATS_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate top languages card
+        uses: readme-tools/github-readme-stats-action@v2.1.0
+        with:
+          card: top-langs
+          options: username=oliynykmax&layout=compact&theme=dark&hide_border=true&bg_color=1a1410&title_color=d4c5a9&text_color=c9b896&langs_count=8
+          path: assets/top-langs.svg
+          token: ${{ secrets.STATS_TOKEN }}
+          fail_on_error: true
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/stats.svg assets/top-langs.svg
+          git diff --cached --quiet || git commit -m "chore: update stats cards"
+          git push
